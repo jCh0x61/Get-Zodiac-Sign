@@ -16,8 +16,18 @@ struct signeAstro {
 };
 
 struct signeAstro DMA [12]={
-	{20,03,18,04,"Aries"},{19,04,19,05,"Taurus"},{20,05,20,06,"Gemini"},{21,06,21,07,"Cancer"},{22,07,21,8,"Leo"},  {22,8,21,9,"Virgo"},
-	{22,9,22,10,"Libra"},{23,10,21,11,"Scorpio"}, {22,11,20,12,"Sagittarius"},{21,12,18,01,"Capricorn"},{19,01,17,02,"Aquarius"}, {18,02,20,03,"Pisces"}
+	{20,03,18,04,"Aries"},
+	{19,04,19,05,"Taurus"},
+	{20,05,20,06,"Gemini"},
+	{21,06,21,07,"Cancer"},
+	{22,07,21,8,"Leo"},  
+	{22,8,21,9,"Virgo"},
+	{22,9,22,10,"Libra"},
+	{23,10,21,11,"Scorpio"},
+	{22,11,20,12,"Sagittarius"},
+	{21,12,18,01,"Capricorn"},
+	{19,01,17,02,"Aquarius"},
+	{18,02,20,03,"Pisces"}
 };
  
 int main(){    
