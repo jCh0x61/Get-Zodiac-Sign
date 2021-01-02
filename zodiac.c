@@ -2,7 +2,9 @@
 #include <stdio.h>
 #include <conio.h>
 
-int i=0,j=0,N=0;
+int i=0,
+    j=0,
+    N=0;
 
 struct sDate {
     int  day;
